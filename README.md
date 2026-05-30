@@ -59,23 +59,14 @@ I am an engineering student specializing in Computer Science & Engineering at Ch
 
 ### 📊 GitHub & Programming Stats
 
+### 📊 GitHub & Programming Stats
+
 <p align="center">
-  <!-- GitHub Overall Stats -->
   <a href="https://github.com/Lakshayg136">
-    <img src="https://github-readme-stats.shion.dev/api?username=Lakshayg136&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="195" />
+    <img src="https://streak-stats.demolab.com?user=Lakshayg136&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="165" />
   </a>
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/Lakshayg136">
-    <img src="https://streak-stats.demolab.com?user=Lakshayg136&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="195" />
-  </a>
-  <br />
-  <!-- Top Languages Card -->
-  <a href="https://github.com/Lakshayg136">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lakshayg136&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="205" />
-  </a>
-  <!-- LeetCode Stats Card -->
   <a href="https://leetcode.com/u/Lakshayg136">
-    <img src="https://leetcard.jacoblin.cool/Lakshayg136?theme=dark&font=Outfit" alt="Leetcode Stats" height="205" />
+    <img src="https://leetcard.jacoblin.cool/Lakshayg136?theme=dark&font=Outfit" alt="Leetcode Stats" height="165" />
   </a>
 </p>
 
