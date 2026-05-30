@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lakshay Gupta! 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Creative+UI%2FUX+Designer;Technical+Intern+%40+Maruti+Suzuki;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Creative+UI%2FUX+Designer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,9 +11,6 @@
   <a href="https://github.com/Lakshayg136" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/Lakshayg136" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
 </p>
 
 ---
@@ -22,7 +19,6 @@
 
 I am a dedicated and creative **B.E. Computer Science student at Chandigarh University** with a strong drive for building high-performance, responsive web applications. As a **Full-Stack Developer** and **UI/UX Designer**, I love bridging the gap between pixel-perfect, interactive visual experiences and robust, clean backend logic.
 
-* 🛠️ Currently working as a **Technical Intern (Digital Operations) @ Maruti Suzuki India Limited**, digitizing and optimizing enterprise workflows.
 * 🎨 Serving as the **Joint Secretary & Head Designer** at *C Square Club, Chandigarh University*, coordinating visual identities for large-scale technical events.
 * 🔭 I love building scalable platforms (like my campus marketplace **CU Market** and private health assistant **Maitri**).
 * ⚡ Fun fact: I love car driving, traveling, and exploring architectural photography.
@@ -66,14 +62,6 @@ I am a dedicated and creative **B.E. Computer Science student at Chandigarh Univ
   </a>
   <a href="https://github.com/Lakshayg136">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshayg136&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="190" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Stable Cloudflare-backed LeetCard Widget -->
-  <a href="https://leetcode.com/Lakshayg136">
-    <img src="https://leetcard.jacoblin.cool/Lakshayg136?theme=dark&font=Outfit" alt="Leetcode Stats" />
-  </a>
 </p>
 
 ---
