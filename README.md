@@ -62,17 +62,17 @@ I am a dedicated and creative **B.E. Computer Science student at Chandigarh Univ
 
 <p align="center">
   <a href="https://github.com/Lakshayg136">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakshayg136&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Lakshay's GitHub Stats" height="190" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lakshayg136&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Lakshay's GitHub Stats" height="190" />
   </a>
   <a href="https://github.com/Lakshayg136">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshayg136&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="190" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshayg136&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="190" />
   </a>
 </p>
 
 <p align="center">
-  <!-- LeetCode Solved problems display using standard Leetcode Stats Widget -->
+  <!-- Stable Cloudflare-backed LeetCard Widget -->
   <a href="https://leetcode.com/Lakshayg136">
-    <img align="center" src="https://leetcode-stats.vercel.app/api?username=Lakshayg136&theme=Dark" alt="Leetcode Stats" height="175" />
+    <img src="https://leetcard.jacoblin.cool/Lakshayg136?theme=dark&font=Outfit" alt="Leetcode Stats" />
   </a>
 </p>
 
@@ -84,6 +84,6 @@ I am a dedicated and creative **B.E. Computer Science student at Chandigarh Univ
 * **Email**: [lakshayg136@gmail.com](mailto:lakshayg136@gmail.com)
 * **LinkedIn**: [/in/lakshaygupta2121](https://www.linkedin.com/in/lakshaygupta2121/)
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://capsule-render.vercel.app/type=waving&color=rose&height=100&section=footer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=rose&height=100&section=footer" width="100%" />
 </p>
