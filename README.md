@@ -61,22 +61,21 @@ I am an engineering student specializing in Computer Science & Engineering at Ch
 
 <p align="center">
   <a href="https://github.com/Lakshayg136">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lakshayg136&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Lakshayg136&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/Lakshayg136">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshayg136&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180" />
+    <img src="https://streak-stats.demolab.com?user=Lakshayg136&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Lakshayg136">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshayg136&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lakshayg136&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
   </a>
   <a href="https://leetcode.com/u/Lakshayg136">
     <img src="https://leetcard.jacoblin.cool/Lakshayg136?theme=dark&font=Outfit" alt="Leetcode Stats" height="160" />
   </a>
 </p>
-
 ---
 
 ### 📬 Let's Connect!
