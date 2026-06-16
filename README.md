@@ -72,7 +72,7 @@ I am an engineering student specializing in Computer Science & Engineering at Ch
 
 ### 📬 Let's Connect!
 
-* **Portfolio Website**: [Explore my Lakshay-OS Portfolio!](https://lakshay-gupta.vercel.app/))
+* **Portfolio Website**: [Explore my Lakshay-OS Portfolio!](https://lakshay-gupta.vercel.app/)
 * **Email**: [lakshayg136@gmail.com](mailto:lakshayg136@gmail.com)
 * **LinkedIn**: [/in/lakshaygupta2121](https://www.linkedin.com/in/lakshaygupta2121/)
 
