@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Lakshay Gupta! 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Creative+UI%2FUX+Designer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Creative+UI%2FUX+Designer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lakshaygupta2121/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Lakshayg136" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/Lakshayg136" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
+<a href="https://www.linkedin.com/in/lakshaygupta2121/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Lakshayg136" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://leetcode.com/Lakshayg136" target="_blank">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+</a>
 </p>
 
 ---
@@ -24,79 +24,59 @@ I am an engineering student specializing in Computer Science & Engineering at Ch
 
 * **Key Focus Areas**: Full-Stack Development (MERN Stack), Responsive Interface Design, Algorithm Optimization, and System Prototyping.
 * **Technical Leadership**: Serving as the Joint Secretary and Head Designer at *C Square Club, Chandigarh University*, directing branding identity and coordinating technical event executions.
-* **Projects & Research**: Developed campus-centric utility platforms like [**CU Market**](https://github.com/Pratik-kr21/cu-marketplace) (marketplace with secure real-time messaging) and [**Maitri**](https://github.com/Pratik-kr21/Maitri) (privacy-oriented women's health companion). 
+* **Projects & Research**: Developed campus-centric utility platforms like **CU Market** (marketplace with secure real-time messaging) and **Maitri** (privacy-oriented women's health companion). 
 
 ---
 
 ### 💻 Tech Stack
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <!-- Backend / Databases -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<!-- Languages -->
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React.js" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+
+<!-- Backend / Databases -->
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
-
----
-
-### 📁 Featured Projects
-
-Here are my top collaborative and personal open-source projects:
-
-#### 🖥️ [macOS Portfolio OS](https://github.com/Lakshayg136/personal-portfolio)
-An immersive, interactive personal portfolio website simulating a realistic macOS desktop environment. Built with React, Tailwind CSS, and Framer Motion, it features a simulated Finder, a working zsh terminal, custom mini-games, and a serverless contact email gateway.
-* **Tech Stack**: React 18, Tailwind CSS, Vite, Framer Motion, EmailJS
-* **Demo**: [lakshay-os.vercel.app](https://lakshay-gupta.vercel.app/)
-
-#### 🏥 [Maitri — Women's Health Companion](https://github.com/Pratik-kr21/Maitri)
-A privacy-focused MERN stack women's health companion. Built to provide an anonymous, secure dashboard for menstrual cycle prediction, symptoms logging, secure OTP authentication, and community forums.
-* **Tech Stack**: MongoDB, Express.js, React, Node.js, Tailwind CSS
-* **Demo**: [maitri-healthcare.vercel.app](https://maitri-healthcare.vercel.app/)
-
-#### 🛒 [CU Marketplace — Campus Buy & Sell](https://github.com/Pratik-kr21/cu-marketplace)
-A campus-centric marketplace enabling students to safely buy and sell items within the university network. Features include JWT authentication, secure listing flows, Cloudinary photo uploads, and integrated real-time chat.
-* **Tech Stack**: React, Node.js, Express.js, MongoDB, Socket.io, Cloudinary
-* **Demo**: [cumarketplace.vercel.app](https://cumarketplace.vercel.app/)
 
 ---
 
 ### 📊 GitHub & Programming Stats
 
 <p align="center">
-  <a href="https://github.com/Lakshayg136">
-    <img src="https://streak-stats.demolab.com?user=Lakshayg136&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="165" />
-  </a>
-  <a href="https://leetcode.com/u/Lakshayg136">
-    <img src="https://leetcard.jacoblin.cool/Lakshayg136?theme=dark&font=Outfit" alt="Leetcode Stats" height="165" />
-  </a>
+<a href="https://github.com/Lakshayg136">
+<img src="https://streak-stats.demolab.com?user=Lakshayg136&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="165" />
+</a>
+<a href="https://leetcode.com/u/Lakshayg136">
+<img src="https://leetcard.jacoblin.cool/Lakshayg136?theme=dark&font=Outfit" alt="Leetcode Stats" height="165" />
+</a>
 </p>
 
 ---
 
 ### 📬 Let's Connect!
 
+* **Portfolio Website**: [Explore my Lakshay-OS Portfolio!](https://lakshay-gupta.vercel.app/))
 * **Portfolio Website**: [Explore my Lakshay-OS Portfolio!](https://lakshay-gupta.vercel.app/)
 * **Email**: [lakshayg136@gmail.com](mailto:lakshayg136@gmail.com)
 * **LinkedIn**: [/in/lakshaygupta2121](https://www.linkedin.com/in/lakshaygupta2121/)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=rose&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=rose&height=100&section=footer" width="100%" />
 </p>
