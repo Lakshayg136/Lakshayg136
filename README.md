@@ -59,8 +59,6 @@ I am an engineering student specializing in Computer Science & Engineering at Ch
 
 ### 📊 GitHub & Programming Stats
 
-### 📊 GitHub & Programming Stats
-
 <p align="center">
   <a href="https://github.com/Lakshayg136">
     <img src="https://streak-stats.demolab.com?user=Lakshayg136&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="165" />
