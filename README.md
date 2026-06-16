@@ -25,7 +25,7 @@ I am an engineering student specializing in Computer Science & Engineering at Ch
 * **Key Focus Areas**: Full-Stack Development (MERN Stack), Responsive Interface Design, Algorithm Optimization, and System Prototyping.
 * **Technical Leadership**: Serving as the Joint Secretary and Head Designer at *C Square Club, Chandigarh University*, directing branding identity and coordinating technical event executions.
 * **Projects & Research**: Developed campus-centric utility platforms like **CU Market** (marketplace with secure real-time messaging) and **Maitri** (privacy-oriented women's health companion). 
-
+* **Projects & Research**: Developed campus-centric utility platforms like [**CU Market**](https://github.com/Pratik-kr21/cu-marketplace) (marketplace with secure real-time messaging) and [**Maitri**](https://github.com/Pratik-kr21/Maitri) (privacy-oriented women's health companion). 
 ---
 
 ### 💻 Tech Stack
