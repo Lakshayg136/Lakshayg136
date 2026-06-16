@@ -24,7 +24,7 @@ I am an engineering student specializing in Computer Science & Engineering at Ch
 
 * **Key Focus Areas**: Full-Stack Development (MERN Stack), Responsive Interface Design, Algorithm Optimization, and System Prototyping.
 * **Technical Leadership**: Serving as the Joint Secretary and Head Designer at *C Square Club, Chandigarh University*, directing branding identity and coordinating technical event executions.
-* **Projects & Research**: Developed campus-centric utility platforms like **CU Market** (marketplace with secure real-time messaging) and **Maitri** (privacy-oriented women's health companion). 
+* **Projects & Research**: Developed campus-centric utility platforms like [**CU Market**](https://github.com/Pratik-kr21/cu-marketplace) (marketplace with secure real-time messaging) and [**Maitri**](https://github.com/Pratik-kr21/Maitri) (privacy-oriented women's health companion). 
 
 ---
 
@@ -54,6 +54,27 @@ I am an engineering student specializing in Computer Science & Engineering at Ch
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
+
+---
+
+### 📁 Featured Projects
+
+Here are my top collaborative and personal open-source projects:
+
+#### 🖥️ [macOS Portfolio OS](https://github.com/Lakshayg136/personal-portfolio)
+An immersive, interactive personal portfolio website simulating a realistic macOS desktop environment. Built with React, Tailwind CSS, and Framer Motion, it features a simulated Finder, a working zsh terminal, custom mini-games, and a serverless contact email gateway.
+* **Tech Stack**: React 18, Tailwind CSS, Vite, Framer Motion, EmailJS
+* **Demo**: [lakshay-os.vercel.app](https://lakshay-gupta.vercel.app/)
+
+#### 🏥 [Maitri — Women's Health Companion](https://github.com/Pratik-kr21/Maitri)
+A privacy-focused MERN stack women's health companion. Built to provide an anonymous, secure dashboard for menstrual cycle prediction, symptoms logging, secure OTP authentication, and community forums.
+* **Tech Stack**: MongoDB, Express.js, React, Node.js, Tailwind CSS
+* **Demo**: [maitri-healthcare.vercel.app](https://maitri-healthcare.vercel.app/)
+
+#### 🛒 [CU Marketplace — Campus Buy & Sell](https://github.com/Pratik-kr21/cu-marketplace)
+A campus-centric marketplace enabling students to safely buy and sell items within the university network. Features include JWT authentication, secure listing flows, Cloudinary photo uploads, and integrated real-time chat.
+* **Tech Stack**: React, Node.js, Express.js, MongoDB, Socket.io, Cloudinary
+* **Demo**: [cumarketplace.vercel.app](https://cumarketplace.vercel.app/)
 
 ---
 
